@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Star.dir/main.cpp.o CMakeFiles/Star.dir/sources/files_io.cpp.o  -o Star -rdynamic 

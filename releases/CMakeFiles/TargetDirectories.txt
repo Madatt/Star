@@ -1,0 +1,3 @@
+/home/madatt/Desktop/star/releases/CMakeFiles/rebuild_cache.dir
+/home/madatt/Desktop/star/releases/CMakeFiles/edit_cache.dir
+/home/madatt/Desktop/star/releases/CMakeFiles/Star.dir
